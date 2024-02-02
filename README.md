@@ -63,7 +63,7 @@ In this example, the `math` module is imported with the alias `m`, and the squar
 
 In summary, `import` and `from` statements are fundamental in Python for incorporating external functionality into your code. They offer a way to organize and reuse code by breaking it into modular components.
 
-| Feature | import | from...import |
+| Feature | import <<module_name>> | from <module_name> import <function_or_class_name> |
 |---|---|---|
 | Imports | Entire module | Specific elements |
 | Access | module_name.element | element |
